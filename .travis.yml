@@ -1,0 +1,31 @@
+# only build on pushes to these branches
+branches:
+  only:
+  - master
+
+# let's go with the GO image
+language: go
+sudo: false
+
+# settings
+env:
+  global:
+  - HUGO_VERSION=0.48
+
+# install hugo
+install:
+- mkdir -p bin
+- curl -L https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o bin/hugo.tar.gz
+- tar xzvvf bin/hugo.tar.gz -C ./bin
+
+script:
+- "./bin/hugo"
+
+# deploy to GitHub pages (only based on master)
+deploy:
+  provider: pages
+  local_dir: public
+  skip_cleanup: true
+  github_token: "$GITHUB_TOKEN"
+  on:
+    branch: master
