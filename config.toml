@@ -1,0 +1,89 @@
+baseURL = "https://wirfuerapolda.de/"
+languageCode = "de-DE"
+title = "Wir Für Apolda - Kein Ort für Nazis!"
+theme = "highlights"
+
+[params]
+
+  # You can use Markdown for urls [text](//domain.tld/source)
+  #
+  # All icons using Fontawesom's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+  # for more icons.
+
+  # To provide more meta data for search engings feel free to add a few informations.
+  # This lines will be inserted as meta tags.
+  name = "Wir Für Apolda - Kein Ort für Nazis!"
+  description = "Alle Informationen zur Organisation der Veranstaltung: Wir Für Apolda - Kein Ort für Nazis! Apolda, 5. + 6. Oktober"
+
+  # If this param is set to true, every section gets an own background image (located at static/images)
+  # to change the image you could use the param picture on every section.
+  # If it's disabled you could change the background to overwrite the bg.png and overlay.png to set the background.
+  backgroundpersection = true
+
+  # hero Section
+  [params.hero]
+    type = "hero"
+    title = "Wir Für Apolda - Kein Ort für Nazis!"
+    description = "Alle Informationen zur Organisation der Veranstaltung: #wirfürapolda - Kein Ort für Nazis! 5. + 6. Oktober"
+    buttontext = "Weiter"
+
+  # about section
+  [[params.block]]
+    id = "programm"
+    type = "text"
+    title = "Orientierung"
+    description = "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2509.612863746775!2d11.513039916339638!3d51.02330055380226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a41de451ed72b7%3A0xa964c49d76209894!2sAm+Stadthaus%2C+99510+Apolda!5e0!3m2!1sde!2sde!4v1536245599886' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>"
+    buttontext = "next"
+    # the picture is storead at static/images/
+    picture = "pic01.jpg"
+
+#  # infos section
+#  [[params.block]]
+#    id = "infos"
+#    type = "text"
+#    title = "Anreise"
+#    description = "..."
+#   # the picture is storead at static/images/
+#    picture = "pic03.jpg"
+
+#  # custom section
+#  [[params.block]]
+#    id = "important"
+#    # to make custom section copy <theme>/layouts/partials/text.html to /layouts/partials/custom.html and edit it according to your needs.
+#    type = "custom"
+#    title = "Don't forget"
+#    description = "Curabitur massa ante, semper at massa et, semper pellentesque velit. Duis tempor est nisi, a gravida risus malesuada eget. Nunc rutrum arcu laoreet mauris sodales vehicula. Nunc iaculis felis ac dui egestas, vel ullamcorper tellus bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacinia sem porttitor, fringilla metus at, convallis quam. Integer convallis a justo non pellentesque."
+#    # the picture is storead at static/images/
+#    picture = "pic04.jpg"
+
+  # footer section
+  # this section includes last block and social icons
+
+  [params.footer]
+    enable = true
+
+    # social icons
+    [params.footer.social_list]
+      enable = true
+
+      [[params.footer.social]]
+        title = "Facebook"
+        icon = "fa-facebook"
+        link = "https://www.facebook.com/wirfuerapolda/"
+
+      [[params.footer.social]]
+        title = "Email"
+        icon = "fa-envelope"
+        link = "#"
+
+    # copyright
+    #[params.footer.copyright.notice]
+
+      [[params.footer.copyright.notice]]
+        text = "© 2018 [MOBIT](https://mobit.org/)"
+
+      [[params.footer.copyright.notice]]
+        text = "[Datenschutzerklärung](https://mobit.org/datenschutz)"
+
+      [[params.footer.copyright.notice]]
+        text = "[Impressum](https://mobit.org/impressum)"
