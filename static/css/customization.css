@@ -1,0 +1,16 @@
+/*
+	CSS Customizations
+*/
+
+#header header h1 {
+	margin: 2em;
+	text-transform: none;
+}
+
+#header header h1:after {
+	content: none;
+}
+
+.content p iframe {
+	width: calc(100% - 10px);
+}

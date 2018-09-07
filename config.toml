@@ -1,4 +1,4 @@
-baseURL = "https://wirfuerapolda.de/"
+baseURL = "https://www.wirfuerapolda.de/"
 languageCode = "de-DE"
 title = "Wir Für Apolda - Kein Ort für Nazis!"
 theme = "highlights"
@@ -23,7 +23,7 @@ theme = "highlights"
   # hero Section
   [params.hero]
     type = "hero"
-    title = "Wir Für Apolda - Kein Ort für Nazis!"
+    title = "#wirfürapolda - Kein Ort für Nazis!"
     description = "Alle Informationen zur Organisation der Veranstaltung: #wirfürapolda - Kein Ort für Nazis! 5. + 6. Oktober"
     buttontext = "Weiter"
 
