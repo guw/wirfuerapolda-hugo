@@ -47,8 +47,7 @@ Mit dieser Info-Veranstaltung wollen wir darüber informieren, was an dem Tag in
 **AUSSCHLUSSKLAUSEL**<br />
 *Entsprechend § 6 Absatz 1 Versammlungsgesetz sind Personen, die rechtsextremen Parteien oder Organisationen angehören, der rechtsextremen Szene zuzuordnen sind oder bereits in der Vergangenheit durch rassistische, nationalistische, antisemitische oder sonstige menschenverachtende Äußerungen in Erscheinung getreten sind, von der Veranstaltung ausgeschlossen.*"""
     buttontext = "next"
-    picture = "pic01.jpg"
-
+    picture = "event-info.jpg"
 
   # about section
   [[params.block]]
@@ -58,16 +57,6 @@ Mit dieser Info-Veranstaltung wollen wir darüber informieren, was an dem Tag in
     description = """
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2509.5417950085402!2d11.516711316339617!3d51.02461335370685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a41de4a3a79975%3A0xd825931365509ff6!2sMehrgenerationenhaus+%22Geschwister+Scholl%22+Apolda!5e0!3m2!1sde!2sde!4v1536315336223" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>"""
     buttontext = "next"
-    picture = "pic03.jpg"
-
-#  # infos section
-#  [[params.block]]
-#    id = "infos"
-#    type = "text"
-#    title = "Anreise"
-#    description = "..."
-#   # the picture is storead at static/images/
-#    picture = "pic03.jpg"
 
 #  # custom section
 #  [[params.block]]
