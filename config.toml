@@ -103,10 +103,10 @@ Mit dieser Info-Veranstaltung wollen wir darüber informieren, was an dem Tag in
     #[params.footer.copyright.notice]
 
       [[params.footer.copyright.notice]]
-        text = "© 2018 [MOBIT](https://mobit.org/)"
+        text = "© 2018 [MOBIT](https://www.bgr-weimar.de/)"
 
       [[params.footer.copyright.notice]]
-        text = "[Datenschutzerklärung](https://mobit.org/datenschutz)"
+        text = "[Datenschutzerklärung](https://www.bgr-weimar.de/cms/datenschutzerklaerung.html)"
 
       [[params.footer.copyright.notice]]
-        text = "[Impressum](https://mobit.org/impressum)"
+        text = "[Impressum](https://www.bgr-weimar.de/cms/impressum.html)"
