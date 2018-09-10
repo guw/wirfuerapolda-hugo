@@ -103,10 +103,10 @@ Mit dieser Info-Veranstaltung wollen wir darüber informieren, was an dem Tag in
     #[params.footer.copyright.notice]
 
       [[params.footer.copyright.notice]]
-        text = "© 2018 [MOBIT](https://www.bgr-weimar.de/)"
+        text = "© 2018 [Netzwerk buntes Weimarer Land](http://lap.apolda.de/category/aktuelles/netzwerk-buntes-weimarer-land/)"
 
       [[params.footer.copyright.notice]]
-        text = "[Datenschutzerklärung](https://www.bgr-weimar.de/cms/datenschutzerklaerung.html)"
+        text = "[Datenschutzerklärung](http://lap.apolda.de/impressum/)"
 
       [[params.footer.copyright.notice]]
-        text = "[Impressum](https://www.bgr-weimar.de/cms/impressum.html)"
+        text = "[Impressum](http://lap.apolda.de/impressum/)"
