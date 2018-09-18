@@ -33,19 +33,18 @@ theme = "highlights"
     type = "text"
     title = "Aktuelles"
     description = """
-**Info-Veranstaltung am 11. September, 19 Uhr**<br />
-*Mehrzweckraum, Mehrgenerationenhaus Apolda*
+**20. September, 19 Uhr**<br />
+*Mehrgenerationenhaus Apolda*
 
-Am 5. und 6. Oktober wollen Neonazis in Apolda ein Rechtsrock-Konzert durchführen. Im letzten Jahr kamen für die vorherige Veranstaltung 6.000 Rechte zusammen und bildeten somit Europas größtes rechtes Festival.
+Film und Gespräch: „Blut muss fließen – Undercover unter Nazis“
 
-Die Veranstaltung war ursprünglich für Ende August in Mattstedt geplant, wurde dort aber in letzter Minute verhindert.
+**Bürgerversammlung am 25. September, 18 Uhr**<br />
+*Großer Saal, Schloß Apolda*
 
-Das neonazistische Hasskonzert darf auch in Apolda nicht unwidersprochen bleiben, denn es ist nicht einfach „nur“ ein Konzert: Neonazis verbreiten mit diesen Veranstaltung ihre menschenverachtende Ideologie.
-
-Mit dieser Info-Veranstaltung wollen wir darüber informieren, was an dem Tag in Apolda zu erwarten ist und wo man sich den Gegenprotesten am besten anschließen kann.
+Wir wollen darüber informieren, welche Gegenproteste wir planen und wo man sich am besten anschließen kann.
 
 **AUSSCHLUSSKLAUSEL**<br />
-*Entsprechend § 6 Absatz 1 Versammlungsgesetz sind Personen, die rechtsextremen Parteien oder Organisationen angehören, der rechtsextremen Szene zuzuordnen sind oder bereits in der Vergangenheit durch rassistische, nationalistische, antisemitische oder sonstige menschenverachtende Äußerungen in Erscheinung getreten sind, von der Veranstaltung ausgeschlossen.*"""
+*Entsprechend § 6 Absatz 1 Versammlungsgesetz sind Personen, die rechtsextremen Parteien oder Organisationen angehören, der rechtsextremen Szene zuzuordnen sind oder bereits in der Vergangenheit durch rassistische, nationalistische, antisemitische oder sonstige menschenverachtende Äußerungen in Erscheinung getreten sind, von unseren Veranstaltungen ausgeschlossen.*"""
     buttontext = "next"
     picture = "event-info.jpg"
 
