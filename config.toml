@@ -27,7 +27,7 @@ theme = "highlights"
     description = "Alle Informationen zur Organisation der Veranstaltung: #wirfürapolda - Kein Ort für Nazis! 5. + 6. Oktober"
     buttontext = "Aktuelles"
 
-  # about section
+  # Termine
   [[params.block]]
     id = "news"
     type = "text"
@@ -46,9 +46,9 @@ Wir wollen darüber informieren, welche Gegenproteste wir planen und wo man sich
 **AUSSCHLUSSKLAUSEL**<br />
 *Entsprechend § 6 Absatz 1 Versammlungsgesetz sind Personen, die rechtsextremen Parteien oder Organisationen angehören, der rechtsextremen Szene zuzuordnen sind oder bereits in der Vergangenheit durch rassistische, nationalistische, antisemitische oder sonstige menschenverachtende Äußerungen in Erscheinung getreten sind, von unseren Veranstaltungen ausgeschlossen.*"""
     buttontext = "next"
-    picture = "event-info.jpg"
+    #picture = "event-info.jpg"
 
-  # about section
+  # Orientierung
   [[params.block]]
     id = "programm"
     type = "text"
@@ -66,6 +66,24 @@ Wir wollen darüber informieren, welche Gegenproteste wir planen und wo man sich
 #    description = "Curabitur massa ante, semper at massa et, semper pellentesque velit. Duis tempor est nisi, a gravida risus malesuada eget. Nunc rutrum arcu laoreet mauris sodales vehicula. Nunc iaculis felis ac dui egestas, vel ullamcorper tellus bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacinia sem porttitor, fringilla metus at, convallis quam. Integer convallis a justo non pellentesque."
 #    # the picture is storead at static/images/
 #    picture = "pic04.jpg"
+
+  # Wir
+  [[params.block]]
+    id = "about"
+    type = "text"
+    title = "Wir sind viele!"
+    description = """
+Hinter dem **Wir** steht ein breites Bündnis aus Privatpersonen, Instituationen, Vereinen, Firmen und demokratischen Parteien und Fraktionen des Apoldaer Stadtrates.
+
+In mehreren Gruppen teilen wir uns rein in die Vorbereitung und Organisation des friedlichen Protests gegen die Rechte Großkundgebung auf unserem Marktplatz in Apolda. Jeder kann sich uns gern anschließen.
+
+<object data="files/Infoflyer-Wir-fuer-Apolda.pdf" type="application/pdf" style="width:100%;height:600px">
+  <a href="files/Infoflyer-Wir-fuer-Apolda.pdf">Unseren Infoflyer herunterladen</a>
+</object>
+
+[Infoflyer herunterladen](./files/Infoflyer-Wir-fuer-Apolda.pdf)
+"""
+    buttontext = "next"
 
   # footer section
   # this section includes last block and social icons
@@ -85,7 +103,7 @@ Wir wollen darüber informieren, welche Gegenproteste wir planen und wo man sich
       [[params.footer.social]]
         title = "Email"
         icon = "fa-envelope"
-        link = "#"
+        link = "mailto:wir@wirfuerapolda.da"
 
     # copyright
     #[params.footer.copyright.notice]
