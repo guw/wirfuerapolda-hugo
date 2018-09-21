@@ -48,24 +48,25 @@ Wir wollen darüber informieren, welche Gegenproteste wir planen und wo man sich
     buttontext = "next"
     #picture = "event-info.jpg"
 
-  # Orientierung
+  # Apolda
   [[params.block]]
-    id = "programm"
+    id = "apolda"
     type = "text"
-    title = "Orientierung"
+    title = "Offener Brief an den Freistaat Thüringen"
     description = """
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2509.5417950085402!2d11.516711316339617!3d51.02461335370685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a41de4a3a79975%3A0xd825931365509ff6!2sMehrgenerationenhaus+%22Geschwister+Scholl%22+Apolda!5e0!3m2!1sde!2sde!4v1536315336223" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>"""
-    buttontext = "next"
+Mit einem offenen Brief wenden sich Bürgermeister Rüdiger Eisenbrand und die Apoldaer Stadtratsfraktionen an den Freistaat Thüringen und die demokratischen Fraktionen im Thüringer Landtag.
 
-#  # custom section
-#  [[params.block]]
-#    id = "important"
-#    # to make custom section copy <theme>/layouts/partials/text.html to /layouts/partials/custom.html and edit it according to your needs.
-#    type = "custom"
-#    title = "Don't forget"
-#    description = "Curabitur massa ante, semper at massa et, semper pellentesque velit. Duis tempor est nisi, a gravida risus malesuada eget. Nunc rutrum arcu laoreet mauris sodales vehicula. Nunc iaculis felis ac dui egestas, vel ullamcorper tellus bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacinia sem porttitor, fringilla metus at, convallis quam. Integer convallis a justo non pellentesque."
-#    # the picture is storead at static/images/
-#    picture = "pic04.jpg"
+In dem Brief bitten die Beteiligten um Unterstützung der Kreisstadt, das für den 5. und 6 Oktober 2018 geplante Rechtsrockkonzert zu unterbinden und der Zivilgesellschaft sowie den Bürgerinnen und Bürgern zu helfen, die Grundrechte und die Gesellschaftsordnung zu verteidigen.
+
+Seit Bekanntwerden des Ereignisses in unserer Stadt sind große Teile der Bevölkerung verängstigt und in großer Sorge – um ihr Eigentum, um ihre Gesundheit, aber auch um den guten Ruf ihrer Heimat.
+
+<object data="files/Offener-Brief-Buergermeister-Stadtrat.pdf" type="application/pdf" style="width:100%;height:600px">
+  <a href="files/Offener-Brief-Buergermeister-Stadtrat.pdf">Offener Brief von Bürgermeister und Stadtrat herunterladen</a>
+</object>
+
+[Offener Brief von Bürgermeister und Stadtrat herunterladen herunterladen](./files/Offener-Brief-Buergermeister-Stadtrat.pdf)
+"""
+    buttontext = "next"
 
   # Wir
   [[params.block]]
@@ -84,6 +85,25 @@ In mehreren Gruppen teilen wir uns rein in die Vorbereitung und Organisation des
 [Infoflyer herunterladen](./files/Infoflyer-Wir-fuer-Apolda.pdf)
 """
     buttontext = "next"
+
+  # Orientierung
+  [[params.block]]
+    id = "programm"
+    type = "text"
+    title = "Orientierung"
+    description = """
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2509.5417950085402!2d11.516711316339617!3d51.02461335370685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a41de4a3a79975%3A0xd825931365509ff6!2sMehrgenerationenhaus+%22Geschwister+Scholl%22+Apolda!5e0!3m2!1sde!2sde!4v1536315336223" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>"""
+    buttontext = "next"
+
+#  # custom section
+#  [[params.block]]
+#    id = "important"
+#    # to make custom section copy <theme>/layouts/partials/text.html to /layouts/partials/custom.html and edit it according to your needs.
+#    type = "custom"
+#    title = "Don't forget"
+#    description = "Curabitur massa ante, semper at massa et, semper pellentesque velit. Duis tempor est nisi, a gravida risus malesuada eget. Nunc rutrum arcu laoreet mauris sodales vehicula. Nunc iaculis felis ac dui egestas, vel ullamcorper tellus bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacinia sem porttitor, fringilla metus at, convallis quam. Integer convallis a justo non pellentesque."
+#    # the picture is storead at static/images/
+#    picture = "pic04.jpg"
 
   # footer section
   # this section includes last block and social icons
