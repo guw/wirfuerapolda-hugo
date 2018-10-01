@@ -33,6 +33,20 @@ theme = "highlights"
     type = "text"
     title = "Aktuelles"
     description = """
+**1. Oktober, 18:00Uhr**<br />
+*Info-Abend in Magdala, Mehrzweckhalle (Am Sportplatz)*
+
+**AUSSCHLUSSKLAUSEL**
+Entsprechend § 6 Absatz 1 Versammlungsgesetz Ich sind Personen, die rechtsextremen Parteien oder Organisationen angehören, der rechtsextremen Szene zuzuordnen sind oder bereits in der Vergangenheit durch rassistische, nationalistische, antisemitische oder sonstige menschenverachtende Äußerungen in Erscheinung getreten sind, von der Veranstaltung ausgeschlossen.
+"""
+    buttontext = "next"
+    #picture = "event-info.jpg"
+
+  [[params.block]]
+    id = "program"
+    type = "text"
+    title = "Programm"
+    description = """
 **5. + 6. Oktober**<br />
 *Das Programm ist ab sofort verfügbar.*
 
