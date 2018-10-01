@@ -33,14 +33,14 @@ theme = "highlights"
     type = "text"
     title = "Aktuelles"
     description = """
-**1. Oktober, 18:00Uhr**<br />
-*Info-Abend in Magdala, Mehrzweckhalle (Am Sportplatz)*
+**1. Oktober, 18:00 Uhr - Info-Abend in Magdala**<br />
+*Mehrzweckhalle (Am Sportplatz), Johannisstraße 7a*
 
 **AUSSCHLUSSKLAUSEL**
 Entsprechend § 6 Absatz 1 Versammlungsgesetz Ich sind Personen, die rechtsextremen Parteien oder Organisationen angehören, der rechtsextremen Szene zuzuordnen sind oder bereits in der Vergangenheit durch rassistische, nationalistische, antisemitische oder sonstige menschenverachtende Äußerungen in Erscheinung getreten sind, von der Veranstaltung ausgeschlossen.
 """
     buttontext = "next"
-    #picture = "event-info.jpg"
+    picture = "wirfuermagdala.png"
 
   [[params.block]]
     id = "program"
@@ -53,6 +53,8 @@ Entsprechend § 6 Absatz 1 Versammlungsgesetz Ich sind Personen, die rechtsextre
 <object data="files/Wir-fuer-Apolda-ProgrammFlyer.pdf" type="application/pdf" style="width:100%;height:600px">
   <a href="files/Wir-fuer-Apolda-ProgrammFlyer.pdf">Programm Flyer herunterladen</a>
 </object>
+
+[Programm-Flyer herunterladen](./files/Wir-fuer-Apolda-ProgrammFlyer.pdf)
 """
     buttontext = "next"
     #picture = "event-info.jpg"
@@ -73,7 +75,7 @@ Seit Bekanntwerden des Ereignisses in unserer Stadt sind große Teile der Bevöl
   <a href="files/Offener-Brief-Buergermeister-Stadtrat.pdf">Offener Brief von Bürgermeister und Stadtrat herunterladen</a>
 </object>
 
-[Offener Brief von Bürgermeister und Stadtrat herunterladen herunterladen](./files/Offener-Brief-Buergermeister-Stadtrat.pdf)
+[Offener Brief von Bürgermeister und Stadtrat herunterladen](./files/Offener-Brief-Buergermeister-Stadtrat.pdf)
 """
     buttontext = "next"
 
