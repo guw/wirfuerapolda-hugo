@@ -33,8 +33,14 @@ theme = "highlights"
     type = "text"
     title = "Aktuelles"
     description = """
-**1. Oktober, 18:00 Uhr - Info-Abend in Magdala**<br />
-*Mehrzweckhalle (Am Sportplatz), Johannisstraße 7a*
+**3. Oktober, 12:00 Uhr - Kreide-Mal-Aktion der Kirche**<br />
+*Marktplatz Apolda, Straßenmalkreide ist genug vorhanden*
+
+**5. Oktober, ab 14:00 Uhr - Protest-Programm**<br />
+*Magdala oder Apolda, [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) ab Weimar und Apolda*
+
+**6. Oktober, ab 10:00 Uhr - Protest-Programm**<br />
+*Magdala oder Apolda, [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) ab Weimar und Apolda*
 
 **AUSSCHLUSSKLAUSEL**
 Entsprechend § 6 Absatz 1 Versammlungsgesetz Ich sind Personen, die rechtsextremen Parteien oder Organisationen angehören, der rechtsextremen Szene zuzuordnen sind oder bereits in der Vergangenheit durch rassistische, nationalistische, antisemitische oder sonstige menschenverachtende Äußerungen in Erscheinung getreten sind, von der Veranstaltung ausgeschlossen.
@@ -50,14 +56,18 @@ Entsprechend § 6 Absatz 1 Versammlungsgesetz Ich sind Personen, die rechtsextre
 **5. + 6. Oktober**<br />
 *Das Programm ist ab sofort verfügbar.*
 
-<object data="files/Wir-fuer-Apolda-ProgrammFlyer.pdf" type="application/pdf" style="width:100%;height:600px">
-  <a href="files/Wir-fuer-Apolda-ProgrammFlyer.pdf">Programm Flyer herunterladen</a>
+Je nach Veranstaltungsort wird der Protest entweder in Magdala oder Apolda stattfinden.
+Wir haben einen [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) eingerichtet.
+
+Teilnehmer aus Jena können mit dem Zug nach Weimar reisen und dann den Shuttle-Service nach Magdala nutzen.
+
+<object data="files/Flyer-Programm-Magdala.pdf" type="application/pdf" style="width:100%;height:600px">
+  <a href="files/Flyer-Programm-Magdala.pdf">Programm Flyer herunterladen</a>
 </object>
 
-[Programm-Flyer herunterladen](./files/Wir-fuer-Apolda-ProgrammFlyer.pdf)
+[Programm-Flyer herunterladen](./files/Flyer-Programm-Magdala.pdf)
 """
     buttontext = "next"
-    #picture = "event-info.jpg"
 
   # Apolda
   [[params.block]]
