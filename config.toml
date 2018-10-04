@@ -37,10 +37,13 @@ theme = "highlights"
 *Marktplatz Apolda, Straßenmalkreide ist genug vorhanden*
 
 **5. Oktober, ab 14:00 Uhr - Protest-Programm**<br />
-*Magdala, [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) ab Weimar und Apolda*
+*Magdala, [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) ab Weimar und Apolda*<br />
+[Programm-Flyer herunterladen](./files/Flyer-Programm-Magdala.pdf)
 
 **6. Oktober, ab 10:00 Uhr - Protest-Programm**<br />
-*Magdala, [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) ab Weimar und Apolda*
+*Magdala, [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) ab Weimar und Apolda*<br />
+[Programm-Flyer herunterladen](./files/Flyer-Programm-Magdala.pdf)
+
 
 **AUSSCHLUSSKLAUSEL**
 Entsprechend § 6 Absatz 1 Versammlungsgesetz Ich sind Personen, die rechtsextremen Parteien oder Organisationen angehören, der rechtsextremen Szene zuzuordnen sind oder bereits in der Vergangenheit durch rassistische, nationalistische, antisemitische oder sonstige menschenverachtende Äußerungen in Erscheinung getreten sind, von der Veranstaltung ausgeschlossen.
@@ -54,7 +57,7 @@ Entsprechend § 6 Absatz 1 Versammlungsgesetz Ich sind Personen, die rechtsextre
     title = "Programm"
     description = """
 **5. + 6. Oktober**<br />
-*Das Programm ist ab sofort verfügbar.*
+[Programm-Flyer herunterladen](./files/Flyer-Programm-Magdala.pdf)<br/>
 
 Der Protest findet in Magdala statt.
 Wir haben einen [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) eingerichtet.
@@ -65,7 +68,8 @@ Teilnehmer aus Jena können mit dem Zug nach Weimar reisen und dann den Shuttle-
   <a href="files/Flyer-Programm-Magdala.pdf">Programm Flyer herunterladen</a>
 </object>
 
-[Programm-Flyer herunterladen](./files/Flyer-Programm-Magdala.pdf)
+[Programm-Flyer herunterladen](./files/Flyer-Programm-Magdala.pdf)<br/>
+[Abfahrzeiten Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf)
 """
     buttontext = "next"
 
