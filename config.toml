@@ -108,15 +108,6 @@ In mehreren Gruppen teilen wir uns rein in die Vorbereitung und Organisation des
 """
     buttontext = "next"
 
-  # Orientierung
-  [[params.block]]
-    id = "programm"
-    type = "text"
-    title = "Orientierung"
-    description = """
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2509.5417950085402!2d11.516711316339617!3d51.02461335370685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a41de4a3a79975%3A0xd825931365509ff6!2sMehrgenerationenhaus+%22Geschwister+Scholl%22+Apolda!5e0!3m2!1sde!2sde!4v1536315336223" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>"""
-    buttontext = "next"
-
 #  # custom section
 #  [[params.block]]
 #    id = "important"
