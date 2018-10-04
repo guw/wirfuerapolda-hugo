@@ -13,7 +13,7 @@ theme = "highlights"
   # To provide more meta data for search engings feel free to add a few informations.
   # This lines will be inserted as meta tags.
   name = "Wir Für Apolda - Kein Ort für Nazis!"
-  description = "Alle Informationen zur Organisation der Veranstaltung: Wir Für Apolda - Kein Ort für Nazis! Apolda, 5. + 6. Oktober"
+  description = "Alle Informationen zur Organisation der Veranstaltung: Wir Für Apolda/Magdala - Kein Ort für Nazis! Magdala, 5. + 6. Oktober"
 
   # If this param is set to true, every section gets an own background image (located at static/images)
   # to change the image you could use the param picture on every section.
@@ -37,10 +37,10 @@ theme = "highlights"
 *Marktplatz Apolda, Straßenmalkreide ist genug vorhanden*
 
 **5. Oktober, ab 14:00 Uhr - Protest-Programm**<br />
-*Magdala oder Apolda, [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) ab Weimar und Apolda*
+*Magdala, [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) ab Weimar und Apolda*
 
 **6. Oktober, ab 10:00 Uhr - Protest-Programm**<br />
-*Magdala oder Apolda, [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) ab Weimar und Apolda*
+*Magdala, [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) ab Weimar und Apolda*
 
 **AUSSCHLUSSKLAUSEL**
 Entsprechend § 6 Absatz 1 Versammlungsgesetz Ich sind Personen, die rechtsextremen Parteien oder Organisationen angehören, der rechtsextremen Szene zuzuordnen sind oder bereits in der Vergangenheit durch rassistische, nationalistische, antisemitische oder sonstige menschenverachtende Äußerungen in Erscheinung getreten sind, von der Veranstaltung ausgeschlossen.
@@ -56,7 +56,7 @@ Entsprechend § 6 Absatz 1 Versammlungsgesetz Ich sind Personen, die rechtsextre
 **5. + 6. Oktober**<br />
 *Das Programm ist ab sofort verfügbar.*
 
-Je nach Veranstaltungsort wird der Protest entweder in Magdala oder Apolda stattfinden.
+Der Protest findet in Magdala statt.
 Wir haben einen [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) eingerichtet.
 
 Teilnehmer aus Jena können mit dem Zug nach Weimar reisen und dann den Shuttle-Service nach Magdala nutzen.
