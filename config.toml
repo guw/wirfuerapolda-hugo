@@ -13,7 +13,7 @@ theme = "highlights"
   # To provide more meta data for search engings feel free to add a few informations.
   # This lines will be inserted as meta tags.
   name = "Wir Für Apolda - Kein Ort für Nazis!"
-  description = "Alle Informationen zur Organisation der Veranstaltung: Wir Für Apolda/Magdala - Kein Ort für Nazis! Magdala, 5. + 6. Oktober"
+  description = "Alle Informationen zur Organisation der Veranstaltung: Wir Für Apolda - Kein Ort für Nazis! Apolda, 5. + 6. Oktober"
 
   # If this param is set to true, every section gets an own background image (located at static/images)
   # to change the image you could use the param picture on every section.
@@ -33,13 +33,11 @@ theme = "highlights"
     type = "text"
     title = "Aktuelles"
     description = """
-**5. Oktober, ab 14:00 Uhr - Protest-Programm**<br />
-*Magdala, [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) ab Weimar und Apolda*<br />
-[Programm-Flyer herunterladen](./files/Flyer-Programm-Magdala.pdf)
-
 **6. Oktober, ab 10:00 Uhr - Protest-Programm**<br />
-*Magdala, [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) ab Weimar und Apolda*<br />
-[Programm-Flyer herunterladen](./files/Flyer-Programm-Magdala.pdf)
+*Apolda, Shuttle-Service ab Weimar und Jena nach Apolda*<br />
+[Programm-Flyer herunterladen](./files/Flyer-Programm-Apolda.pdf)
+
+**ACHTUNG*** Der Protest findet in **Apolda** statt.
 
 
 **AUSSCHLUSSKLAUSEL**
@@ -53,19 +51,19 @@ Entsprechend § 6 Absatz 1 Versammlungsgesetz Ich sind Personen, die rechtsextre
     type = "text"
     title = "Programm"
     description = """
-**5. + 6. Oktober**<br />
-[Programm-Flyer herunterladen](./files/Flyer-Programm-Magdala.pdf)<br/>
+**6. Oktober**<br />
+[Programm-Flyer herunterladen](./files/Flyer-Programm-Apolda.pdf)<br/>
 
-Der Protest findet in Magdala statt.
+**ACHTUNG*** Der Protest findet in **Apolda** statt.
+
 Wir haben einen [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) eingerichtet.
+Die Shuttle fahren ab Weimar und Jena *nach* Apolda.
 
-Teilnehmer aus Jena können mit dem Zug nach Weimar reisen und dann den Shuttle-Service nach Magdala nutzen.
-
-<object data="files/Flyer-Programm-Magdala.pdf" type="application/pdf" style="width:100%;height:600px">
-  <a href="files/Flyer-Programm-Magdala.pdf">Programm Flyer herunterladen</a>
+<object data="files/Flyer-Programm-Apolda.pdf" type="application/pdf" style="width:100%;height:600px">
+  <a href="files/Flyer-Programm-Apolda.pdf">Programm Flyer herunterladen</a>
 </object>
 
-[Programm-Flyer herunterladen](./files/Flyer-Programm-Magdala.pdf)<br/>
+[Programm-Flyer herunterladen](./files/Flyer-Programm-Apolda.pdf)<br/>
 [Abfahrzeiten Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf)
 """
     buttontext = "next"
