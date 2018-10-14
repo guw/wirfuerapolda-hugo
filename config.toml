@@ -33,38 +33,10 @@ theme = "highlights"
     type = "text"
     title = "Aktuelles"
     description = """
-**6. Oktober, ab 10:00 Uhr - Protest-Programm**<br />
-*Apolda, Shuttle-Service ab Weimar und Jena nach Apolda*<br />
-[Programm-Flyer herunterladen](./files/Flyer-Programm-Apolda.pdf)
+**Vielen Dank für Eure Unterstützung**<br />
+*Wir haben unseren Marktplatz erfolgreich verteidigt!*
 
-**ACHTUNG*** Der Protest findet in **Apolda** statt.
-
-
-**AUSSCHLUSSKLAUSEL**
-Entsprechend § 6 Absatz 1 Versammlungsgesetz Ich sind Personen, die rechtsextremen Parteien oder Organisationen angehören, der rechtsextremen Szene zuzuordnen sind oder bereits in der Vergangenheit durch rassistische, nationalistische, antisemitische oder sonstige menschenverachtende Äußerungen in Erscheinung getreten sind, von der Veranstaltung ausgeschlossen.
-"""
-    buttontext = "next"
-    picture = "wirfuermagdala.png"
-
-  [[params.block]]
-    id = "program"
-    type = "text"
-    title = "Programm"
-    description = """
-**6. Oktober**<br />
-[Programm-Flyer herunterladen](./files/Flyer-Programm-Apolda.pdf)<br/>
-
-**ACHTUNG*** Der Protest findet in **Apolda** statt.
-
-Wir haben einen [Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf) eingerichtet.
-Die Shuttle fahren ab Weimar und Jena *nach* Apolda.
-
-<object data="files/Flyer-Programm-Apolda.pdf" type="application/pdf" style="width:100%;height:600px">
-  <a href="files/Flyer-Programm-Apolda.pdf">Programm Flyer herunterladen</a>
-</object>
-
-[Programm-Flyer herunterladen](./files/Flyer-Programm-Apolda.pdf)<br/>
-[Abfahrzeiten Shuttle-Service](./files/Flyer-Shuttle-Magdala.pdf)
+#WirFürMattsted, #WirFürMagdala, #WirFürKirchheim und #WirFürApolda - alles #KeineOrteFürNazis
 """
     buttontext = "next"
 
